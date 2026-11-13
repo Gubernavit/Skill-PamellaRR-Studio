@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1254 1254"
+   width="1254"
+   height="1254"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="PamellaRR Studio.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Roxo - Verde Floresta.png"
+   inkscape:export-xdpi="165.35886"
+   inkscape:export-ydpi="165.35886"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient81"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c692be;stop-opacity:1;"
+         offset="0.21590909"
+         id="stop79" />
+      <stop
+         style="stop-color:#a25b96;stop-opacity:1;"
+         offset="0.48863631"
+         id="stop80" />
+      <stop
+         style="stop-color:#6a3261;stop-opacity:1;"
+         offset="1"
+         id="stop81" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient74"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e8d1a8;stop-opacity:1;"
+         offset="0"
+         id="stop75" />
+      <stop
+         style="stop-color:#e9c37e;stop-opacity:1;"
+         offset="0.5"
+         id="stop77" />
+      <stop
+         style="stop-color:#bf944a;stop-opacity:1;"
+         offset="1"
+         id="stop76" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient71"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e8d1a8;stop-opacity:1;"
+         offset="0.27684963"
+         id="stop72" />
+      <stop
+         style="stop-color:#e9c37e;stop-opacity:1;"
+         offset="0.35202867"
+         id="stop74" />
+      <stop
+         style="stop-color:#bf944a;stop-opacity:1;"
+         offset="0.77326965"
+         id="stop73" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient60"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#97688f;stop-opacity:1;"
+         offset="0.09069213"
+         id="stop60" />
+      <stop
+         style="stop-color:#8a4f80;stop-opacity:1;"
+         offset="0.43794742"
+         id="stop62" />
+      <stop
+         style="stop-color:#6a3261;stop-opacity:1;"
+         offset="0.80906916"
+         id="stop61" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient27"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e8d1a8;stop-opacity:1;"
+         offset="0.31606218"
+         id="stop27" />
+      <stop
+         style="stop-color:#e9c37e;stop-opacity:1;"
+         offset="0.47927463"
+         id="stop43" />
+      <stop
+         style="stop-color:#bf944a;stop-opacity:1;"
+         offset="1"
+         id="stop28" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <path
+         id="path5"
+         style="stroke-width:0.1;stroke-linecap:square;paint-order:markers fill stroke;stop-color:#000000"
+         d="m 438.25066,553.76374 859.87054,0 v 201.39554 l -859.87054,0 z"
+         sodipodi:nodetypes="ccccc" />
+    </clipPath>
+    <linearGradient
+       id="linearGradient10"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#f5d896;stop-opacity:1;"
+         offset="0.6994819"
+         id="stop11" />
+      <stop
+         style="stop-color:#deb871;stop-opacity:1;"
+         offset="0.94041449"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27"
+       id="linearGradient30"
+       x1="491.67725"
+       y1="511.52664"
+       x2="738.78674"
+       y2="511.52664"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient60"
+       id="linearGradient61"
+       x1="505.14404"
+       y1="567.61896"
+       x2="725.31976"
+       y2="455.43384"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient71"
+       id="linearGradient73"
+       x1="198.25362"
+       y1="807.02051"
+       x2="1063.191"
+       y2="807.02051"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient74"
+       id="linearGradient76"
+       x1="783.79565"
+       y1="412.26334"
+       x2="854.99133"
+       y2="384.93387"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70444445,0,0,0.70444445,201.4834,219.58747)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient81"
+       id="linearGradient79"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.70444445,0,0,0.70444445,201.48313,219.58767)"
+       x1="783.79565"
+       y1="412.26334"
+       x2="854.99133"
+       y2="384.93387" />
+    <radialGradient
+       id="brilho"
+       xlink:href="#radialGradient36">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop9" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop10" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient36"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop35"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop36" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient2"
+       xlink:href="#radialGradient36">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop2" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop3"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient6"
+       xlink:href="#radialGradient36">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop5" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop6" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop7"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop8" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient12"
+       xlink:href="#radialGradient36">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop11-0" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop12-9" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient14"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop13"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop14" />
+    </radialGradient>
+    <linearGradient
+       id="ouro"
+       gradientUnits="userSpaceOnUse"
+       x1="319.39999"
+       y1="123.5"
+       x2="503.60001"
+       y2="401.5">
+      <stop
+         offset="0"
+         stop-color="#D7AC70"
+         id="stop15" />
+      <stop
+         offset="0.2"
+         stop-color="#DDB175"
+         id="stop16" />
+      <stop
+         offset="0.4"
+         stop-color="#E0B477"
+         id="stop17" />
+      <stop
+         offset="0.6"
+         stop-color="#E0B57A"
+         id="stop18" />
+      <stop
+         offset="0.8"
+         stop-color="#E6BF85"
+         id="stop19" />
+      <stop
+         offset="1"
+         stop-color="#EBC389"
+         id="stop20" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#brilho-5"
+       id="radialGradient37"
+       cx="636.29999"
+       cy="300"
+       fx="636.29999"
+       fy="300"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.9733333,-1.9466667)" />
+    <radialGradient
+       id="brilho-5"
+       xlink:href="#radialGradient36-7">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop9-5" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop10-1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient36-7"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop35-1"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop36-1" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#brilho-5"
+       id="radialGradient38"
+       cx="481.5"
+       cy="238.7"
+       fx="481.5"
+       fy="238.7"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.48666667,1.46)" />
+    <radialGradient
+       id="radialGradient2-5"
+       xlink:href="#radialGradient36-7">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop1-2" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop2-7" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient4-6"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop3-1"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop4-4" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#brilho-5"
+       id="radialGradient39"
+       cx="591.09998"
+       cy="160"
+       fx="591.09998"
+       fy="160"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.9733333,1.46)" />
+    <radialGradient
+       id="radialGradient6-2"
+       xlink:href="#radialGradient36-7">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop5-3" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop6-2" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient8-2"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop7-1"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop8-6" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#brilho-5"
+       id="radialGradient40"
+       cx="166"
+       cy="256.5"
+       fx="166"
+       fy="256.5"
+       r="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.17206265,0.17206265)" />
+    <radialGradient
+       id="radialGradient12-8"
+       xlink:href="#radialGradient36-7">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop11-5" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop12-7" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient14-6"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop13-1"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop14-8" />
+    </radialGradient>
+    <linearGradient
+       id="ouro-9"
+       gradientUnits="userSpaceOnUse"
+       x1="319.39999"
+       y1="123.5"
+       x2="503.60001"
+       y2="401.5">
+      <stop
+         offset="0"
+         stop-color="#D7AC70"
+         id="stop15-2" />
+      <stop
+         offset="0.2"
+         stop-color="#DDB175"
+         id="stop16-7" />
+      <stop
+         offset="0.4"
+         stop-color="#E0B477"
+         id="stop17-9" />
+      <stop
+         offset="0.6"
+         stop-color="#E0B57A"
+         id="stop18-5" />
+      <stop
+         offset="0.8"
+         stop-color="#E6BF85"
+         id="stop19-4" />
+      <stop
+         offset="1"
+         stop-color="#EBC389"
+         id="stop20-3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient71"
+       id="linearGradient4"
+       gradientUnits="userSpaceOnUse"
+       x1="198.25362"
+       y1="807.02051"
+       x2="1063.191"
+       y2="807.02051" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient71"
+       id="linearGradient5"
+       gradientUnits="userSpaceOnUse"
+       x1="198.25362"
+       y1="807.02051"
+       x2="1063.191"
+       y2="807.02051" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient71"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="198.25362"
+       y1="807.02051"
+       x2="1063.191"
+       y2="807.02051" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.46520183"
+     inkscape:cx="647.03099"
+     inkscape:cy="650.2554"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     inkscape:export-bgcolor="#ffffff00" />
+  <title
+     id="title1">Pamella RR Studio</title>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="FUNDO"
+     style="display:inline">
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect5"
+       x="0"
+       y="0"
+       style="display:none;fill:#fcf5ed;fill-opacity:1"
+       inkscape:label="BEGE"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Beje.png"
+       inkscape:export-xdpi="165.35886"
+       inkscape:export-ydpi="165.35886" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect4"
+       x="0"
+       y="0"
+       style="display:none;fill:#92a68b;fill-opacity:1"
+       inkscape:label="VERDE SALIVA" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect2"
+       x="0"
+       y="0"
+       style="display:none;fill:#284d3b;fill-opacity:1"
+       inkscape:label="VERDE FLORESTA"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Verde Floresta.png"
+       inkscape:export-xdpi="165.35886"
+       inkscape:export-ydpi="165.35886" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect1-9"
+       x="0"
+       y="0"
+       style="display:inline;fill:#482844;fill-opacity:1"
+       inkscape:label="ROXO ESCURO"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Roxo Escuro.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect3"
+       x="0"
+       y="0"
+       style="display:none;fill:#8763a1;fill-opacity:1"
+       inkscape:label="ROXO"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Roxo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect1"
+       x="0"
+       y="0"
+       style="display:none;fill:#d1b3da;fill-opacity:1"
+       inkscape:label="LILAS" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect78"
+       x="0"
+       y="0"
+       style="display:none;fill:#000000;fill-opacity:1"
+       inkscape:label="PRETO"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Preto.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       width="1254"
+       height="1254"
+       fill="#36122c"
+       id="rect79"
+       x="0"
+       y="0"
+       style="display:none;fill:#ffffff;fill-opacity:1"
+       inkscape:label="BRANCO"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua - Dourado - Branco.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="LOGO 1"
+     style="display:none">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="LOGO ROXA"
+       style="display:none">
+      <g
+         fill="#F7CDA2"
+         text-anchor="middle"
+         id="g55"
+         style="display:inline;fill:#f5d896;fill-opacity:1"
+         transform="translate(-2.8385807,4.2992092)"
+         inkscape:label="NOME"
+         inkscape:export-filename="..\Nome\svg\PamellaRR Studio - Roxo.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <text
+           x="640"
+           y="793"
+           font-family="'Cormorant Garamond', 'Trajan Pro', 'Times New Roman', serif"
+           font-size="108px"
+           textLength="870"
+           lengthAdjust="spacing"
+           id="text54"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#462140;fill-opacity:1"
+           transform="translate(0,-1)"
+           inkscape:label="PAMELLA RR">PAMELLA RR</text>
+        <text
+           x="627"
+           y="900"
+           font-family="Montserrat, Raleway, 'Helvetica Neue', Arial, sans-serif"
+           font-weight="300"
+           font-size="72px"
+           textLength="315"
+           lengthAdjust="spacing"
+           id="text55"
+           style="display:inline;fill:#462140;fill-opacity:1"
+           inkscape:label="STUDIO">Studio</text>
+      </g>
+      <path
+         id="icone"
+         fill-rule="evenodd"
+         d="m 602.16,666.65 c 0.29,-2.43 3.39,-4.63 5.14,-6.65 3.67,-4.21 6.78,-8.94 9.47,-13.82 6.81,-12.34 11.89,-43.13 9.34,-56.89 -3.47,-0.77 -7.76,0.25 -11.46,0.19 -7.33,-0.12 -14.67,-0.67 -21.91,-1.75 -29.17,-4.34 -58.46,-20.61 -76.66,-44 -4.9,-6.3 -8.97,-13.3 -12.59,-20.39 -11.16,-21.86 -15.27,-48.84 -8.59,-72.65 2.05,-7.3 4.96,-17.59 12.61,-20.86 1.64,-0.7 2.03,-1.02 3.57,-0.46 -1.05,2.55 -3.47,5.01 -4.92,7.6 -4.66,8.33 -7.03,17.98 -8.04,27.43 -1.69,15.69 1.57,31.21 6.93,45.82 12.17,33.11 39.35,58.31 72.75,69.06 10.45,3.36 38.46,8.48 48.41,4.68 0.76,-3.89 0.25,-8.32 0.25,-12.33 0,-12.53 -0.44,-25.06 -0.43,-37.59 0,-3.3 0.5,-19.7 -0.2,-21.59 -0.9,-2.43 -4.55,-4.78 -6.31,-6.67 -4.29,-4.62 -8.78,-9.47 -12.22,-14.78 -14.8,-22.82 -24.08,-52.08 -15.02,-78.98 4.03,-11.97 10.57,-22.76 19.56,-31.66 3.64,-3.61 8.64,-6.13 11.97,-9.9 0.03,-4.1 -1.27,-10.6 0.65,-14.07 2.58,2.22 4.84,5.55 8.06,7.06 4.26,2 10.12,0.94 14.69,1.48 6.15,0.73 12.75,2.51 18.65,4.42 18.53,6.02 34.36,17.06 47.76,31.03 6.78,7.07 12.13,16.27 16.13,25.14 20.67,45.88 4.18,98.96 -32.19,131.78 -14.29,12.9 -31.63,22.03 -50.04,27.47 -4.35,1.28 -8.9,1.86 -13.21,3.08 -1.09,3.93 0.15,8.52 -0.38,12.67 -2.45,18.9 -2.93,36.13 -14.6,52.28 -2.78,3.84 -12.57,14.28 -17.17,13.85 z m 31.1,-298.72 c -1.4,5.31 -0.23,16.62 -0.19,22.67 0.12,14.92 -0.28,29.89 0.24,44.81 0.61,17.56 0.36,35.24 0.4,52.81 0.01,3.93 -0.57,21.15 0.15,23.6 0.67,2.27 14.22,11.05 16.91,12.59 24.88,14.19 49.27,12.44 68.98,-9.49 2.61,-2.91 5.26,-6.22 6.87,-9.8 5.57,-12.41 6.96,-32.67 5.09,-46.05 -5.92,-42.47 -30.92,-76.2 -73.76,-86.85 -4.01,-0.99 -8.15,-1.23 -12.24,-1.86 -3.18,-0.48 -10.32,-2.35 -12.45,-2.43 z m -7.82,136.65 c 1.54,-6.04 0.38,-21.96 0.31,-29.07 -0.22,-19.85 -0.72,-39.75 -0.68,-59.6 0.01,-8.54 -0.73,-17.04 -0.6,-25.58 0.07,-4.56 0.445,-11.05 0,-14.16 -7.46,3.37 -15.96,15.29 -19.89,22.42 -14.33,26.03 -12.25,60.66 4.21,85.3 3.43,5.14 11.7,17.96 16.65,20.69 z m 94.25,17.23 c -1.84,0.77 -3.22,2.44 -4.9,3.77 -4.58,3.62 -9.53,6.98 -15.04,8.98 -13.66,4.97 -30.39,5.29 -43.54,-1.69 -5.47,-2.91 -10.92,-6.31 -16.01,-9.83 -1.97,-1.36 -3.8,-3.01 -5.9,-3.96 -1.37,4.7 -0.27,36.52 -0.35,44.22 -0.05,4.9 -0.99,15.68 0.42,19.84 3.89,-0.15 8.23,-1.51 12.01,-2.7 22.64,-7.13 42.97,-20.04 58.75,-37.83 4.57,-5.16 12.61,-14.41 14.56,-20.8 z"
+         sodipodi:nodetypes="ccccccccccccccccscscccccccccccccccccccccccccccccccccccccccccccccccc"
+         style="display:inline;fill:url(#linearGradient61);fill-rule:evenodd"
+         inkscape:label="ICONE GRADIENTE" />
+      <path
+         id="path62"
+         fill-rule="evenodd"
+         d="m 602.16,666.65 c 0.29,-2.43 3.39,-4.63 5.14,-6.65 3.67,-4.21 6.78,-8.94 9.47,-13.82 6.81,-12.34 11.89,-43.13 9.34,-56.89 -3.47,-0.77 -7.76,0.25 -11.46,0.19 -7.33,-0.12 -14.67,-0.67 -21.91,-1.75 -29.17,-4.34 -58.46,-20.61 -76.66,-44 -4.9,-6.3 -8.97,-13.3 -12.59,-20.39 -11.16,-21.86 -15.27,-48.84 -8.59,-72.65 2.05,-7.3 4.96,-17.59 12.61,-20.86 1.64,-0.7 2.03,-1.02 3.57,-0.46 -1.05,2.55 -3.47,5.01 -4.92,7.6 -4.66,8.33 -7.03,17.98 -8.04,27.43 -1.69,15.69 1.57,31.21 6.93,45.82 12.17,33.11 39.35,58.31 72.75,69.06 10.45,3.36 38.46,8.48 48.41,4.68 0.76,-3.89 0.25,-8.32 0.25,-12.33 0,-12.53 -0.44,-25.06 -0.43,-37.59 0,-3.3 0.5,-19.7 -0.2,-21.59 -0.9,-2.43 -4.55,-4.78 -6.31,-6.67 -4.29,-4.62 -8.78,-9.47 -12.22,-14.78 -14.8,-22.82 -24.08,-52.08 -15.02,-78.98 4.03,-11.97 10.57,-22.76 19.56,-31.66 3.64,-3.61 8.64,-6.13 11.97,-9.9 0.03,-4.1 -1.27,-10.6 0.65,-14.07 2.58,2.22 4.84,5.55 8.06,7.06 4.26,2 10.12,0.94 14.69,1.48 6.15,0.73 12.75,2.51 18.65,4.42 18.53,6.02 34.36,17.06 47.76,31.03 6.78,7.07 12.13,16.27 16.13,25.14 20.67,45.88 4.18,98.96 -32.19,131.78 -14.29,12.9 -31.63,22.03 -50.04,27.47 -4.35,1.28 -8.9,1.86 -13.21,3.08 -1.09,3.93 0.15,8.52 -0.38,12.67 -2.45,18.9 -2.93,36.13 -14.6,52.28 -2.78,3.84 -12.57,14.28 -17.17,13.85 z m 31.1,-298.72 c -1.4,5.31 -0.23,16.62 -0.19,22.67 0.12,14.92 -0.28,29.89 0.24,44.81 0.61,17.56 0.36,35.24 0.4,52.81 0.01,3.93 -0.57,21.15 0.15,23.6 0.67,2.27 14.22,11.05 16.91,12.59 24.88,14.19 49.27,12.44 68.98,-9.49 2.61,-2.91 5.26,-6.22 6.87,-9.8 5.57,-12.41 6.96,-32.67 5.09,-46.05 -5.92,-42.47 -30.92,-76.2 -73.76,-86.85 -4.01,-0.99 -8.15,-1.23 -12.24,-1.86 -3.18,-0.48 -10.32,-2.35 -12.45,-2.43 z m -7.82,136.65 c 1.54,-6.04 0.38,-21.96 0.31,-29.07 -0.22,-19.85 -0.72,-39.75 -0.68,-59.6 0.01,-8.54 -0.73,-17.04 -0.6,-25.58 0.07,-4.56 0.445,-11.05 0,-14.16 -7.46,3.37 -15.96,15.29 -19.89,22.42 -14.33,26.03 -12.25,60.66 4.21,85.3 3.43,5.14 11.7,17.96 16.65,20.69 z m 94.25,17.23 c -1.84,0.77 -3.22,2.44 -4.9,3.77 -4.58,3.62 -9.53,6.98 -15.04,8.98 -13.66,4.97 -30.39,5.29 -43.54,-1.69 -5.47,-2.91 -10.92,-6.31 -16.01,-9.83 -1.97,-1.36 -3.8,-3.01 -5.9,-3.96 -1.37,4.7 -0.27,36.52 -0.35,44.22 -0.05,4.9 -0.99,15.68 0.42,19.84 3.89,-0.15 8.23,-1.51 12.01,-2.7 22.64,-7.13 42.97,-20.04 58.75,-37.83 4.57,-5.16 12.61,-14.41 14.56,-20.8 z"
+         sodipodi:nodetypes="ccccccccccccccccscscccccccccccccccccccccccccccccccccccccccccccccccc"
+         style="display:inline;fill:#462140;fill-opacity:1;fill-rule:evenodd"
+         inkscape:label="ICONE  "
+         inkscape:export-filename="..\Icone\svg\PamellaRR Studio - Roxa.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         d="m 778.74321,538.92867 c -0.13238,-0.13236 -0.11217,-0.29567 -0.12421,-0.47447 -0.005,-0.061 -0.005,-0.061 -0.009,-0.12333 -0.0103,-0.1371 -0.0202,-0.2742 -0.0301,-0.4113 -0.007,-0.098 -0.0146,-0.19554 -0.0223,-0.2931 -0.0159,-0.21059 -0.0314,-0.4216 -0.0469,-0.63219 -0.0399,-0.53636 -0.0812,-1.07314 -0.12292,-1.60949 -0.005,-0.0585 -0.009,-0.11647 -0.0137,-0.17492 -0.3133,-4.04972 -0.67473,-8.10461 -1.8652,-15.96468 -0.006,-0.0318 -0.0117,-0.0636 -0.0181,-0.0967 -0.72674,-3.90403 -1.80761,-8.12782 -4.98577,-11.80579 -0.15343,-0.1646 -0.15343,-0.1646 -0.15343,-0.26002 -0.0241,-0.01 -0.0477,-0.0193 -0.0722,-0.0292 -0.12893,-0.0735 -0.21488,-0.16719 -0.31717,-0.2742 -0.22821,-0.23379 -0.47145,-0.43966 -0.72804,-0.64208 -0.0408,-0.034 -0.0821,-0.0683 -0.1242,-0.10357 -0.79937,-0.65884 -1.70532,-1.19047 -2.62632,-1.65849 -0.0452,-0.0231 -0.0898,-0.046 -0.13624,-0.0696 -1.69845,-0.86255 -3.52369,-1.44274 -5.36095,-1.92666 -0.0856,-0.0223 -0.17062,-0.0452 -0.25614,-0.0679 -3.23961,-0.85697 -6.58022,-1.3873 -9.89032,-1.8897 0.0142,-0.0284 0.0284,-0.0567 0.043,-0.0859 0.10099,-0.0236 0.19855,-0.0417 0.30041,-0.0567 0.0318,-0.005 0.0636,-0.0103 0.0963,-0.0155 0.0696,-0.0112 0.13881,-0.0219 0.20843,-0.0327 0.1126,-0.0172 0.22477,-0.0348 0.33694,-0.0529 0.16117,-0.0258 0.32233,-0.0511 0.48393,-0.0765 0.42418,-0.0667 0.84836,-0.13495 1.27255,-0.20372 0.0636,-0.0103 0.0636,-0.0103 0.12893,-0.0206 1.21066,-0.1964 2.41574,-0.42074 3.61909,-0.65883 0.0417,-0.008 0.0834,-0.0164 0.12636,-0.0249 3.13861,-0.62317 6.34985,-1.39977 9.19966,-2.89751 0.0344,-0.0176 0.0688,-0.0356 0.10401,-0.0537 0.87157,-0.45169 1.69802,-0.97729 2.45054,-1.60949 0.0644,-0.0537 0.13023,-0.10616 0.19598,-0.15859 0.2772,-0.22047 0.5269,-0.45985 0.77359,-0.71384 0.0997,-0.10014 0.19985,-0.19984 0.30041,-0.29912 0.0267,-0.0262 0.0532,-0.0524 0.0812,-0.0795 0.0262,-0.0262 0.0529,-0.052 0.0799,-0.0786 0.24368,-0.25442 0.46502,-0.52475 0.67732,-0.80538 0.0245,-0.0323 0.049,-0.0644 0.0743,-0.0976 0.17405,-0.23036 0.34639,-0.46157 0.50584,-0.70267 0.0172,-0.0258 0.0344,-0.0516 0.052,-0.0778 2.0818,-3.13646 2.99721,-6.93648 3.77296,-11.31111 0.006,-0.0379 0.0129,-0.0752 0.0193,-0.1139 0.39065,-2.2997 0.67731,-4.61573 0.92616,-6.93434 0.005,-0.0452 0.005,-0.0452 0.01,-0.0911 0.33479,-3.11756 0.60468,-6.24328 0.8359,-9.37029 0.003,-0.0348 0.005,-0.0696 0.007,-0.10572 0.0249,-0.33995 0.0499,-0.68032 0.073,-1.0207 0.004,-0.0524 0.007,-0.10487 0.0112,-0.15902 0.007,-0.0954 0.0133,-0.19082 0.0193,-0.28623 0.003,-0.0408 0.006,-0.0812 0.008,-0.12334 0.003,-0.0348 0.005,-0.0696 0.007,-0.10572 0.0155,-0.0838 0.0155,-0.0838 0.10142,-0.16976 0.004,0.0442 0.004,0.0442 0.007,0.089 0.43191,5.50236 0.43191,5.50236 1.88368,18.04735 0.006,0.0395 0.0133,0.0791 0.0198,0.11948 0.667,3.98225 1.55619,8.19314 5.05153,13.11746 0.0391,0.0426 0.0778,0.0856 0.11645,0.12849 0.33093,0.36445 0.6683,0.71342 1.04392,1.03188 0.0374,0.0322 0.0752,0.0644 0.11346,0.0976 2.4239,2.05731 5.49032,3.14464 8.52492,3.94228 0.0309,0.008 0.0614,0.0164 0.0933,0.0245 2.47291,0.6541 4.99522,1.1002 7.51626,1.5201 0.0365,0.006 0.0731,0.012 0.11088,0.0184 0.77789,0.12936 1.55577,0.25829 2.33624,0.37089 0,0.0284 0,0.0568 0,0.0859 -0.0413,0.006 -0.0825,0.0133 -0.12464,0.0198 -2.9521,0.47102 -2.9521,0.47102 -5.89215,1.01167 -0.0456,0.009 -0.0911,0.0176 -0.13796,0.027 -2.0255,0.39582 -4.04844,0.84708 -6.01077,1.49303 -0.0825,0.027 -0.16503,0.0538 -0.24797,0.0808 -2.34912,0.768 -4.6759,1.85016 -6.49642,3.55635 -0.0434,0.0395 -0.0864,0.0786 -0.12978,0.11818 -0.34898,0.31674 -0.68376,0.63821 -0.98762,0.99922 -0.0293,0.0348 -0.0293,0.0348 -0.0593,0.0705 -2.53778,3.03203 -3.65347,6.91544 -4.79709,12.73668 -0.01,0.0572 -0.01,0.0572 -0.0198,0.11561 -0.63176,3.7347 -1.0134,7.51496 -1.91419,18.27856 z"
+         fill="#e6a707"
+         id="path79"
+         style="display:inline;fill:url(#linearGradient79);stroke-width:0.042977"
+         inkscape:label="ESTRELA" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g60"
+       inkscape:label="LOGO DOURADA"
+       style="display:inline">
+      <path
+         id="path59"
+         fill-rule="evenodd"
+         d="m 602.16,666.65 c 0.29,-2.43 3.39,-4.63 5.14,-6.65 3.67,-4.21 6.78,-8.94 9.47,-13.82 6.81,-12.34 11.89,-43.13 9.34,-56.89 -3.47,-0.77 -7.76,0.25 -11.46,0.19 -7.33,-0.12 -14.67,-0.67 -21.91,-1.75 -29.17,-4.34 -58.46,-20.61 -76.66,-44 -4.9,-6.3 -8.97,-13.3 -12.59,-20.39 -11.16,-21.86 -15.27,-48.84 -8.59,-72.65 2.05,-7.3 4.96,-17.59 12.61,-20.86 1.64,-0.7 2.03,-1.02 3.57,-0.46 -1.05,2.55 -3.47,5.01 -4.92,7.6 -4.66,8.33 -7.03,17.98 -8.04,27.43 -1.69,15.69 1.57,31.21 6.93,45.82 12.17,33.11 39.35,58.31 72.75,69.06 10.45,3.36 38.46,8.48 48.41,4.68 0.76,-3.89 0.25,-8.32 0.25,-12.33 0,-12.53 -0.44,-25.06 -0.43,-37.59 0,-3.3 0.5,-19.7 -0.2,-21.59 -0.9,-2.43 -4.55,-4.78 -6.31,-6.67 -4.29,-4.62 -8.78,-9.47 -12.22,-14.78 -14.8,-22.82 -24.08,-52.08 -15.02,-78.98 4.03,-11.97 10.57,-22.76 19.56,-31.66 3.64,-3.61 8.64,-6.13 11.97,-9.9 0.03,-4.1 -1.27,-10.6 0.65,-14.07 2.58,2.22 4.84,5.55 8.06,7.06 4.26,2 10.12,0.94 14.69,1.48 6.15,0.73 12.75,2.51 18.65,4.42 18.53,6.02 34.36,17.06 47.76,31.03 6.78,7.07 12.13,16.27 16.13,25.14 20.67,45.88 4.18,98.96 -32.19,131.78 -14.29,12.9 -31.63,22.03 -50.04,27.47 -4.35,1.28 -8.9,1.86 -13.21,3.08 -1.09,3.93 0.15,8.52 -0.38,12.67 -2.45,18.9 -2.93,36.13 -14.6,52.28 -2.78,3.84 -12.57,14.28 -17.17,13.85 z m 31.1,-298.72 c -1.4,5.31 -0.23,16.62 -0.19,22.67 0.12,14.92 -0.28,29.89 0.24,44.81 0.61,17.56 0.36,35.24 0.4,52.81 0.01,3.93 -0.57,21.15 0.15,23.6 0.67,2.27 14.22,11.05 16.91,12.59 24.88,14.19 49.27,12.44 68.98,-9.49 2.61,-2.91 5.26,-6.22 6.87,-9.8 5.57,-12.41 6.96,-32.67 5.09,-46.05 -5.92,-42.47 -30.92,-76.2 -73.76,-86.85 -4.01,-0.99 -8.15,-1.23 -12.24,-1.86 -3.18,-0.48 -10.32,-2.35 -12.45,-2.43 z m -7.82,136.65 c 1.54,-6.04 0.38,-21.96 0.31,-29.07 -0.22,-19.85 -0.72,-39.75 -0.68,-59.6 0.01,-8.54 -0.73,-17.04 -0.6,-25.58 0.07,-4.56 0.445,-11.05 0,-14.16 -7.46,3.37 -15.96,15.29 -19.89,22.42 -14.33,26.03 -12.25,60.66 4.21,85.3 3.43,5.14 11.7,17.96 16.65,20.69 z m 94.25,17.23 c -1.84,0.77 -3.22,2.44 -4.9,3.77 -4.58,3.62 -9.53,6.98 -15.04,8.98 -13.66,4.97 -30.39,5.29 -43.54,-1.69 -5.47,-2.91 -10.92,-6.31 -16.01,-9.83 -1.97,-1.36 -3.8,-3.01 -5.9,-3.96 -1.37,4.7 -0.27,36.52 -0.35,44.22 -0.05,4.9 -0.99,15.68 0.42,19.84 3.89,-0.15 8.23,-1.51 12.01,-2.7 22.64,-7.13 42.97,-20.04 58.75,-37.83 4.57,-5.16 12.61,-14.41 14.56,-20.8 z"
+         sodipodi:nodetypes="ccccccccccccccccscscccccccccccccccccccccccccccccccccccccccccccccccc"
+         style="display:none;fill:#f5d896;fill-opacity:1;fill-rule:evenodd"
+         inkscape:label="ICONE " />
+      <path
+         id="path63"
+         fill-rule="evenodd"
+         d="m 602.16,666.65 c 0.29,-2.43 3.39,-4.63 5.14,-6.65 3.67,-4.21 6.78,-8.94 9.47,-13.82 6.81,-12.34 11.89,-43.13 9.34,-56.89 -3.47,-0.77 -7.76,0.25 -11.46,0.19 -7.33,-0.12 -14.67,-0.67 -21.91,-1.75 -29.17,-4.34 -58.46,-20.61 -76.66,-44 -4.9,-6.3 -8.97,-13.3 -12.59,-20.39 -11.16,-21.86 -15.27,-48.84 -8.59,-72.65 2.05,-7.3 4.96,-17.59 12.61,-20.86 1.64,-0.7 2.03,-1.02 3.57,-0.46 -1.05,2.55 -3.47,5.01 -4.92,7.6 -4.66,8.33 -7.03,17.98 -8.04,27.43 -1.69,15.69 1.57,31.21 6.93,45.82 12.17,33.11 39.35,58.31 72.75,69.06 10.45,3.36 38.46,8.48 48.41,4.68 0.76,-3.89 0.25,-8.32 0.25,-12.33 0,-12.53 -0.44,-25.06 -0.43,-37.59 0,-3.3 0.5,-19.7 -0.2,-21.59 -0.9,-2.43 -4.55,-4.78 -6.31,-6.67 -4.29,-4.62 -8.78,-9.47 -12.22,-14.78 -14.8,-22.82 -24.08,-52.08 -15.02,-78.98 4.03,-11.97 10.57,-22.76 19.56,-31.66 3.64,-3.61 8.64,-6.13 11.97,-9.9 0.03,-4.1 -1.27,-10.6 0.65,-14.07 2.58,2.22 4.84,5.55 8.06,7.06 4.26,2 10.12,0.94 14.69,1.48 6.15,0.73 12.75,2.51 18.65,4.42 18.53,6.02 34.36,17.06 47.76,31.03 6.78,7.07 12.13,16.27 16.13,25.14 20.67,45.88 4.18,98.96 -32.19,131.78 -14.29,12.9 -31.63,22.03 -50.04,27.47 -4.35,1.28 -8.9,1.86 -13.21,3.08 -1.09,3.93 0.15,8.52 -0.38,12.67 -2.45,18.9 -2.93,36.13 -14.6,52.28 -2.78,3.84 -12.57,14.28 -17.17,13.85 z m 31.1,-298.72 c -1.4,5.31 -0.23,16.62 -0.19,22.67 0.12,14.92 -0.28,29.89 0.24,44.81 0.61,17.56 0.36,35.24 0.4,52.81 0.01,3.93 -0.57,21.15 0.15,23.6 0.67,2.27 14.22,11.05 16.91,12.59 24.88,14.19 49.27,12.44 68.98,-9.49 2.61,-2.91 5.26,-6.22 6.87,-9.8 5.57,-12.41 6.96,-32.67 5.09,-46.05 -5.92,-42.47 -30.92,-76.2 -73.76,-86.85 -4.01,-0.99 -8.15,-1.23 -12.24,-1.86 -3.18,-0.48 -10.32,-2.35 -12.45,-2.43 z m -7.82,136.65 c 1.54,-6.04 0.38,-21.96 0.31,-29.07 -0.22,-19.85 -0.72,-39.75 -0.68,-59.6 0.01,-8.54 -0.73,-17.04 -0.6,-25.58 0.07,-4.56 0.445,-11.05 0,-14.16 -7.46,3.37 -15.96,15.29 -19.89,22.42 -14.33,26.03 -12.25,60.66 4.21,85.3 3.43,5.14 11.7,17.96 16.65,20.69 z m 94.25,17.23 c -1.84,0.77 -3.22,2.44 -4.9,3.77 -4.58,3.62 -9.53,6.98 -15.04,8.98 -13.66,4.97 -30.39,5.29 -43.54,-1.69 -5.47,-2.91 -10.92,-6.31 -16.01,-9.83 -1.97,-1.36 -3.8,-3.01 -5.9,-3.96 -1.37,4.7 -0.27,36.52 -0.35,44.22 -0.05,4.9 -0.99,15.68 0.42,19.84 3.89,-0.15 8.23,-1.51 12.01,-2.7 22.64,-7.13 42.97,-20.04 58.75,-37.83 4.57,-5.16 12.61,-14.41 14.56,-20.8 z"
+         sodipodi:nodetypes="ccccccccccccccccscscccccccccccccccccccccccccccccccccccccccccccccccc"
+         style="display:inline;fill:url(#linearGradient30);fill-rule:evenodd"
+         inkscape:label="ICONE GRADIENTE"
+         inkscape:export-filename="..\Icone\svg\PamellaRR Studio - Dourado.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <g
+         fill="#F7CDA2"
+         text-anchor="middle"
+         id="g59"
+         style="display:inline;fill:#f5d896;fill-opacity:1"
+         transform="translate(-2.8385807,4.2992092)"
+         inkscape:label="NOME">
+        <text
+           x="640"
+           y="793"
+           font-family="'Cormorant Garamond', 'Trajan Pro', 'Times New Roman', serif"
+           font-size="108px"
+           textLength="870"
+           lengthAdjust="spacing"
+           id="text58"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#f5d896;fill-opacity:1"
+           transform="translate(0,-1)"
+           inkscape:label="PAMELLA RR">PAMELLA RR</text>
+        <text
+           x="627"
+           y="900"
+           font-family="Montserrat, Raleway, 'Helvetica Neue', Arial, sans-serif"
+           font-weight="300"
+           font-size="72px"
+           textLength="315"
+           lengthAdjust="spacing"
+           id="text59"
+           style="display:inline;fill:#f5d896;fill-opacity:1"
+           inkscape:label="STUDIO">Studio</text>
+      </g>
+      <g
+         fill="#F7CDA2"
+         text-anchor="middle"
+         id="g64"
+         style="display:inline;fill:url(#linearGradient73)"
+         transform="translate(-2.8385807,4.2992092)"
+         inkscape:label="NOME GRADIENTE"
+         inkscape:export-filename="..\Nome\svg\PamellaRR Studio - Dourado.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <text
+           x="640"
+           y="793"
+           font-family="'Cormorant Garamond', 'Trajan Pro', 'Times New Roman', serif"
+           font-size="108px"
+           textLength="870"
+           lengthAdjust="spacing"
+           id="text63"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient73)"
+           transform="translate(0,-1)"
+           inkscape:label="PAMELLA RR">PAMELLA RR</text>
+        <text
+           x="627"
+           y="900"
+           font-family="Montserrat, Raleway, 'Helvetica Neue', Arial, sans-serif"
+           font-weight="300"
+           font-size="72px"
+           textLength="315"
+           lengthAdjust="spacing"
+           id="text64"
+           style="display:inline;fill:url(#linearGradient73)"
+           inkscape:label="STUDIO">Studio</text>
+      </g>
+      <path
+         d="m 778.74348,538.92847 c -0.13238,-0.13236 -0.11217,-0.29567 -0.12421,-0.47447 -0.005,-0.061 -0.005,-0.061 -0.009,-0.12333 -0.0103,-0.1371 -0.0202,-0.2742 -0.0301,-0.4113 -0.007,-0.098 -0.0146,-0.19554 -0.0223,-0.2931 -0.0159,-0.21059 -0.0314,-0.4216 -0.0469,-0.63219 -0.0399,-0.53636 -0.0812,-1.07314 -0.12292,-1.60949 -0.005,-0.0585 -0.009,-0.11647 -0.0137,-0.17492 -0.3133,-4.04972 -0.67473,-8.10461 -1.8652,-15.96468 -0.006,-0.0318 -0.0117,-0.0636 -0.0181,-0.0967 -0.72674,-3.90403 -1.80761,-8.12782 -4.98577,-11.80579 -0.15343,-0.1646 -0.15343,-0.1646 -0.15343,-0.26002 -0.0241,-0.01 -0.0477,-0.0193 -0.0722,-0.0292 -0.12893,-0.0735 -0.21488,-0.16719 -0.31717,-0.2742 -0.22821,-0.23379 -0.47145,-0.43966 -0.72804,-0.64208 -0.0408,-0.034 -0.0821,-0.0683 -0.1242,-0.10357 -0.79937,-0.65884 -1.70532,-1.19047 -2.62632,-1.65849 -0.0452,-0.0231 -0.0898,-0.046 -0.13624,-0.0696 -1.69845,-0.86255 -3.52369,-1.44274 -5.36095,-1.92666 -0.0856,-0.0223 -0.17062,-0.0452 -0.25614,-0.0679 -3.23961,-0.85697 -6.58022,-1.3873 -9.89032,-1.8897 0.0142,-0.0284 0.0284,-0.0567 0.043,-0.0859 0.10099,-0.0236 0.19855,-0.0417 0.30041,-0.0567 0.0318,-0.005 0.0636,-0.0103 0.0963,-0.0155 0.0696,-0.0112 0.13881,-0.0219 0.20843,-0.0327 0.1126,-0.0172 0.22477,-0.0348 0.33694,-0.0529 0.16117,-0.0258 0.32233,-0.0511 0.48393,-0.0765 0.42418,-0.0667 0.84836,-0.13495 1.27255,-0.20372 0.0636,-0.0103 0.0636,-0.0103 0.12893,-0.0206 1.21066,-0.1964 2.41574,-0.42074 3.61909,-0.65883 0.0417,-0.008 0.0834,-0.0164 0.12636,-0.0249 3.13861,-0.62317 6.34985,-1.39977 9.19966,-2.89751 0.0344,-0.0176 0.0688,-0.0356 0.10401,-0.0537 0.87157,-0.45169 1.69802,-0.97729 2.45054,-1.60949 0.0644,-0.0537 0.13023,-0.10616 0.19598,-0.15859 0.2772,-0.22047 0.5269,-0.45985 0.77359,-0.71384 0.0997,-0.10014 0.19985,-0.19984 0.30041,-0.29912 0.0267,-0.0262 0.0532,-0.0524 0.0812,-0.0795 0.0262,-0.0262 0.0529,-0.052 0.0799,-0.0786 0.24368,-0.25442 0.46502,-0.52475 0.67732,-0.80538 0.0245,-0.0323 0.049,-0.0644 0.0743,-0.0976 0.17405,-0.23036 0.34639,-0.46157 0.50584,-0.70267 0.0172,-0.0258 0.0344,-0.0516 0.052,-0.0778 2.0818,-3.13646 2.99721,-6.93648 3.77296,-11.31111 0.006,-0.0379 0.0129,-0.0752 0.0193,-0.1139 0.39065,-2.2997 0.67731,-4.61573 0.92616,-6.93434 0.005,-0.0452 0.005,-0.0452 0.01,-0.0911 0.33479,-3.11756 0.60468,-6.24328 0.8359,-9.37029 0.003,-0.0348 0.005,-0.0696 0.007,-0.10572 0.0249,-0.33995 0.0499,-0.68032 0.073,-1.0207 0.004,-0.0524 0.007,-0.10487 0.0112,-0.15902 0.007,-0.0954 0.0133,-0.19082 0.0193,-0.28623 0.003,-0.0408 0.006,-0.0812 0.008,-0.12334 0.003,-0.0348 0.005,-0.0696 0.007,-0.10572 0.0155,-0.0838 0.0155,-0.0838 0.10142,-0.16976 0.004,0.0442 0.004,0.0442 0.007,0.089 0.43191,5.50236 0.43191,5.50236 1.88368,18.04735 0.006,0.0395 0.0133,0.0791 0.0198,0.11948 0.667,3.98225 1.55619,8.19314 5.05153,13.11746 0.0391,0.0426 0.0778,0.0856 0.11645,0.12849 0.33093,0.36445 0.6683,0.71342 1.04392,1.03188 0.0374,0.0322 0.0752,0.0644 0.11346,0.0976 2.4239,2.05731 5.49032,3.14464 8.52492,3.94228 0.0309,0.008 0.0614,0.0164 0.0933,0.0245 2.47291,0.6541 4.99522,1.1002 7.51626,1.5201 0.0365,0.006 0.0731,0.012 0.11088,0.0184 0.77789,0.12936 1.55577,0.25829 2.33624,0.37089 0,0.0284 0,0.0568 0,0.0859 -0.0413,0.006 -0.0825,0.0133 -0.12464,0.0198 -2.9521,0.47102 -2.9521,0.47102 -5.89215,1.01167 -0.0456,0.009 -0.0911,0.0176 -0.13796,0.027 -2.0255,0.39582 -4.04844,0.84708 -6.01077,1.49303 -0.0825,0.027 -0.16503,0.0538 -0.24797,0.0808 -2.34912,0.768 -4.6759,1.85016 -6.49642,3.55635 -0.0434,0.0395 -0.0864,0.0786 -0.12978,0.11818 -0.34898,0.31674 -0.68376,0.63821 -0.98762,0.99922 -0.0293,0.0348 -0.0293,0.0348 -0.0593,0.0705 -2.53778,3.03203 -3.65347,6.91544 -4.79709,12.73668 -0.01,0.0572 -0.01,0.0572 -0.0198,0.11561 -0.63176,3.7347 -1.0134,7.51496 -1.91419,18.27856 z"
+         fill="#e6a707"
+         id="path2"
+         style="display:inline;fill:url(#linearGradient76);stroke-width:0.042977"
+         inkscape:label="ESTRELA" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="LOGO 2"
+     style="display:inline">
+    <g
+       id="g1"
+       inkscape:export-filename="..\Icone\svg\PamellaRR Studio - Lua.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         inkscape:groupmode="layer"
+         id="layer5"
+         inkscape:label="ICONE"
+         style="display:inline"
+         transform="translate(244.6,223.75)"
+         inkscape:export-filename="..\Icone\png\PamellaRR Studio - Lua.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96">
+        <g
+           inkscape:groupmode="layer"
+           id="layer3"
+           inkscape:label="ESTRELA3">
+          <path
+             id="estrela-3"
+             fill="#fcdedf"
+             d="m 636.34,263.99 c 0,28.8 5.6,36 28,36 -22.4,0 -28,7.2 -28,36 0,-28.8 -5.6,-36 -28,-36 22.4,0 28,-7.2 28,-36 z" />
+          <circle
+             cx="637.27338"
+             cy="298.05334"
+             r="30"
+             fill="url(#brilho)"
+             id="circle13"
+             inkscape:label="circle13"
+             style="fill:url(#radialGradient37)" />
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="layer2-2"
+           inkscape:label="ESTRELA 2">
+          <circle
+             cx="481.98666"
+             cy="240.16"
+             r="30"
+             fill="url(#brilho)"
+             id="circle12"
+             style="fill:url(#radialGradient38)" />
+          <path
+             id="estrela-2"
+             fill="#fee1e0"
+             d="m 481.53,188.7 c 0,41 6.84,50 38,50 -31.16,0 -38,9 -38,50 0,-41 -6.84,-50 -38,-50 31.16,0 38,-9 38,-50 z" />
+        </g>
+        <g
+           inkscape:groupmode="layer"
+           id="layer1"
+           inkscape:label="ESTRELA 1">
+          <circle
+             cx="592.0733"
+             cy="161.46001"
+             r="30"
+             fill="url(#brilho)"
+             id="circle11"
+             style="fill:url(#radialGradient39)" />
+          <path
+             id="estrela-1"
+             fill="#fae4eb"
+             d="m 591.14,131.96 c 0,22.4 4.8,28 24,28 -19.2,0 -24,5.6 -24,28 0,-22.4 -4.8,-28 -24,-28 19.2,0 24,-5.6 24,-28 z" />
+        </g>
+        <g
+           id="orbita"
+           fill="#d7bbb8">
+          <path
+             id="orbita-externa"
+             fill-opacity="0.92"
+             d="m 321.33,438.98 c -0.76,-0.13 -1.52,-0.22 -2.27,-0.34 -1.37,-0.22 -3.15,-0.55 -4.52,-0.82 -4.5,-0.89 -8.97,-1.95 -13.39,-3.19 -19.22,-5.35 -37.53,-13.87 -54.04,-25.05 -19.75,-13.39 -36.86,-30.57 -50.17,-50.37 -12.48,-18.56 -21.57,-39.35 -26.74,-61.1 -4.1,-17.26 -5.73,-35.1 -4.82,-52.82 2.47,-48.21 23.67,-93.9 58.89,-126.9 13.48,-12.62 28.82,-23.22 45.39,-31.35 17.91,-8.77 37.23,-14.66 57,-17.29 4.55,-0.6 9.13,-1.04 13.71,-1.29 1.39,-0.07 3.2,-0.15 4.59,-0.18 0.76,-0.02 1.53,0 2.29,-0.03 -3.05,0.24 -6.09,0.44 -9.14,0.75 -6.07,0.61 -12.11,1.49 -18.1,2.67 -18.67,3.68 -36.77,10.17 -53.5,19.25 -20.69,11.23 -39.21,26.37 -54.31,44.42 -12.63,15.12 -22.85,32.23 -30.16,50.52 -6.46,16.17 -10.64,33.23 -12.38,50.56 -5.78,57.47 15.49,114.53 57.41,154.25 18.23,17.27 39.93,30.79 63.46,39.59 6.42,2.4 12.98,4.45 19.63,6.16 3.7,0.95 7.43,1.74 11.17,2.56 z" />
+          <path
+             id="orbita-interna"
+             fill-opacity="0.75"
+             d="m 259.52,394.71 c -2.79,-1.85 -5.48,-3.61 -8.18,-5.6 -14.11,-10.38 -26.51,-23.08 -36.65,-37.36 -9.35,-13.17 -16.77,-27.7 -21.96,-42.98 -5.2,-15.32 -8.17,-31.38 -8.78,-47.54 -1.52,-40.22 11.63,-79.93 36.88,-111.27 10.69,-13.27 23.43,-24.92 37.67,-34.29 2.8,-1.84 5.58,-3.46 8.47,-5.16 -6.31,4.16 -12.48,8.46 -18.31,13.27 -12.32,10.17 -23.22,22.05 -32.26,35.22 -9.01,13.15 -16.16,27.56 -21.17,42.68 -15.51,46.85 -9.78,98.44 15.61,140.75 8.22,13.7 18.38,26.22 30.07,37.11 5.93,5.53 12.09,10.36 18.61,15.17 z" />
+          <path
+             id="brilho-cruz"
+             fill-opacity="0.9"
+             d="m 143,256.5 c 5.22,-0.28 10.42,-0.94 15.59,-1.66 1.69,-0.23 3.38,-0.48 5.07,-0.73 0.59,-0.09 1.81,-0.37 2.34,-0.36 0.69,0.01 1.38,0.1 2.07,0.15 1.38,0.1 2.75,0.19 4.13,0.28 4.48,0.31 8.96,0.59 13.44,0.84 13.78,0.79 27.56,1.36 41.36,1.48 -13.8,0.1 -27.58,0.69 -41.36,1.48 -4.48,0.25 -8.96,0.53 -13.44,0.84 -1.38,0.09 -2.75,0.18 -4.13,0.28 -0.69,0.05 -1.38,0.14 -2.07,0.15 -0.53,0.01 -1.75,-0.27 -2.34,-0.36 -1.69,-0.25 -3.38,-0.5 -5.07,-0.73 -5.17,-0.72 -10.37,-1.4 -15.59,-1.66 z" />
+          <circle
+             cx="165.82794"
+             cy="256.67206"
+             r="16"
+             fill="url(#brilho)"
+             id="circle10"
+             style="fill:url(#radialGradient40)" />
+        </g>
+        <path
+           id="lua"
+           fill="url(#ouro)"
+           d="M 427.35,89.16 A 173.02,173.02 0 1 0 569.28,374.59 159.38508,159.38508 0 0 1 427.35,89.16 Z"
+           style="fill:url(#ouro-9)" />
+      </g>
+    </g>
+    <g
+       fill="#F7CDA2"
+       text-anchor="middle"
+       id="g2"
+       style="display:inline;fill:#ebcfdd;fill-opacity:1"
+       transform="translate(-2.8385807,67.587891)"
+       inkscape:label="NOME ROXO"
+       inkscape:export-filename="..\Logo\png\PamellaRR Studio - Lua Roxo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         x="640"
+         y="793"
+         font-family="'Cormorant Garamond', 'Trajan Pro', 'Times New Roman', serif"
+         font-size="108px"
+         textLength="870"
+         lengthAdjust="spacing"
+         id="text1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ebcfdd;fill-opacity:1"
+         transform="translate(0,-1)"
+         inkscape:label="PAMELLA RR">PAMELLA RR</text>
+      <text
+         x="627"
+         y="900"
+         font-family="Montserrat, Raleway, 'Helvetica Neue', Arial, sans-serif"
+         font-weight="300"
+         font-size="72px"
+         textLength="315"
+         lengthAdjust="spacing"
+         id="text2"
+         style="display:inline;fill:#9a7b90;fill-opacity:1"
+         inkscape:label="STUDIO">Studio</text>
+    </g>
+    <g
+       fill="#F7CDA2"
+       text-anchor="middle"
+       id="g4"
+       style="display:none;fill:url(#linearGradient6)"
+       transform="translate(-2.8385807,67.587891)"
+       inkscape:label="NOME DOURADO"
+       inkscape:export-filename="..\Nome\svg\PamellaRR Studio - Dourado.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         x="640"
+         y="793"
+         font-family="'Cormorant Garamond', 'Trajan Pro', 'Times New Roman', serif"
+         font-size="108px"
+         textLength="870"
+         lengthAdjust="spacing"
+         id="text3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:108px;font-family:'Felix Titling';-inkscape-font-specification:'Felix Titling, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:url(#linearGradient4)"
+         transform="translate(0,-1)"
+         inkscape:label="PAMELLA RR">PAMELLA RR</text>
+      <text
+         x="627"
+         y="900"
+         font-family="Montserrat, Raleway, 'Helvetica Neue', Arial, sans-serif"
+         font-weight="300"
+         font-size="72px"
+         textLength="315"
+         lengthAdjust="spacing"
+         id="text4"
+         style="display:inline;fill:url(#linearGradient5)"
+         inkscape:label="STUDIO">Studio</text>
+    </g>
+  </g>
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Pamella RR Studio</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

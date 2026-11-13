@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 524.27338 370.72998"
+   width="524.27338"
+   height="370.72998"
+   version="1.1"
+   id="svg2"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient10">
+      <stop
+         style="stop-color:#f5d896;stop-opacity:1;"
+         offset="0.6994819"
+         id="stop11" />
+      <stop
+         style="stop-color:#deb871;stop-opacity:1;"
+         offset="0.94041449"
+         id="stop12" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#brilho-5"
+       id="radialGradient37"
+       cx="636.29999"
+       cy="300"
+       fx="636.29999"
+       fy="300"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.9733333,-1.9466667)" />
+    <radialGradient
+       id="brilho-5"
+       xlink:href="#radialGradient36-7">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop9-5" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop10-1" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient36-7"
+       cx="0.5"
+       cy="0.5"
+       r="0.5"
+       fx="0.5"
+       fy="0.5"
+       fr="0"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#FBE6EC"
+         stop-opacity="0.55"
+         id="stop35-1"
+         style="stop-color:#e4134f;stop-opacity:0.55000001;" />
+      <stop
+         offset="1"
+         stop-color="#FBE6EC"
+         stop-opacity="0"
+         id="stop36-1" />
+    </radialGradient>
+    <radialGradient
+       xlink:href="#brilho-5"
+       id="radialGradient38"
+       cx="481.5"
+       cy="238.7"
+       fx="481.5"
+       fy="238.7"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.48666667,1.46)" />
+    <radialGradient
+       xlink:href="#brilho-5"
+       id="radialGradient39"
+       cx="591.09998"
+       cy="160"
+       fx="591.09998"
+       fy="160"
+       r="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.9733333,1.46)" />
+    <radialGradient
+       xlink:href="#brilho-5"
+       id="radialGradient40"
+       cx="166"
+       cy="256.5"
+       fx="166"
+       fy="256.5"
+       r="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.17206265,0.17206265)" />
+    <linearGradient
+       id="ouro-9"
+       gradientUnits="userSpaceOnUse"
+       x1="319.39999"
+       y1="123.5"
+       x2="503.60001"
+       y2="401.5">
+      <stop
+         offset="0"
+         stop-color="#D7AC70"
+         id="stop15-2" />
+      <stop
+         offset="0.2"
+         stop-color="#DDB175"
+         id="stop16-7" />
+      <stop
+         offset="0.4"
+         stop-color="#E0B477"
+         id="stop17-9" />
+      <stop
+         offset="0.6"
+         stop-color="#E0B57A"
+         id="stop18-5" />
+      <stop
+         offset="0.8"
+         stop-color="#E6BF85"
+         id="stop19-4" />
+      <stop
+         offset="1"
+         stop-color="#EBC389"
+         id="stop20-3" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title1">Pamella RR Studio</title>
+  <g
+     id="layer7"
+     style="display:inline"
+     transform="translate(-387.60001,-292)">
+    <g
+       id="g1">
+      <g
+         id="layer5"
+         style="display:inline"
+         transform="translate(244.6,223.75)">
+        <g
+           id="layer3">
+          <path
+             id="estrela-3"
+             fill="#fcdedf"
+             d="m 636.34,263.99 c 0,28.8 5.6,36 28,36 -22.4,0 -28,7.2 -28,36 0,-28.8 -5.6,-36 -28,-36 22.4,0 28,-7.2 28,-36 z" />
+          <circle
+             cx="637.27338"
+             cy="298.05334"
+             r="30"
+             fill="url(#brilho)"
+             id="circle13"
+             style="fill:url(#radialGradient37)" />
+        </g>
+        <g
+           id="layer2-2">
+          <circle
+             cx="481.98666"
+             cy="240.16"
+             r="30"
+             fill="url(#brilho)"
+             id="circle12"
+             style="fill:url(#radialGradient38)" />
+          <path
+             id="estrela-2"
+             fill="#fee1e0"
+             d="m 481.53,188.7 c 0,41 6.84,50 38,50 -31.16,0 -38,9 -38,50 0,-41 -6.84,-50 -38,-50 31.16,0 38,-9 38,-50 z" />
+        </g>
+        <g
+           id="layer1">
+          <circle
+             cx="592.0733"
+             cy="161.46001"
+             r="30"
+             fill="url(#brilho)"
+             id="circle11"
+             style="fill:url(#radialGradient39)" />
+          <path
+             id="estrela-1"
+             fill="#fae4eb"
+             d="m 591.14,131.96 c 0,22.4 4.8,28 24,28 -19.2,0 -24,5.6 -24,28 0,-22.4 -4.8,-28 -24,-28 19.2,0 24,-5.6 24,-28 z" />
+        </g>
+        <g
+           id="orbita"
+           fill="#d7bbb8">
+          <path
+             id="orbita-externa"
+             fill-opacity="0.92"
+             d="m 321.33,438.98 c -0.76,-0.13 -1.52,-0.22 -2.27,-0.34 -1.37,-0.22 -3.15,-0.55 -4.52,-0.82 -4.5,-0.89 -8.97,-1.95 -13.39,-3.19 -19.22,-5.35 -37.53,-13.87 -54.04,-25.05 -19.75,-13.39 -36.86,-30.57 -50.17,-50.37 -12.48,-18.56 -21.57,-39.35 -26.74,-61.1 -4.1,-17.26 -5.73,-35.1 -4.82,-52.82 2.47,-48.21 23.67,-93.9 58.89,-126.9 13.48,-12.62 28.82,-23.22 45.39,-31.35 17.91,-8.77 37.23,-14.66 57,-17.29 4.55,-0.6 9.13,-1.04 13.71,-1.29 1.39,-0.07 3.2,-0.15 4.59,-0.18 0.76,-0.02 1.53,0 2.29,-0.03 -3.05,0.24 -6.09,0.44 -9.14,0.75 -6.07,0.61 -12.11,1.49 -18.1,2.67 -18.67,3.68 -36.77,10.17 -53.5,19.25 -20.69,11.23 -39.21,26.37 -54.31,44.42 -12.63,15.12 -22.85,32.23 -30.16,50.52 -6.46,16.17 -10.64,33.23 -12.38,50.56 -5.78,57.47 15.49,114.53 57.41,154.25 18.23,17.27 39.93,30.79 63.46,39.59 6.42,2.4 12.98,4.45 19.63,6.16 3.7,0.95 7.43,1.74 11.17,2.56 z" />
+          <path
+             id="orbita-interna"
+             fill-opacity="0.75"
+             d="m 259.52,394.71 c -2.79,-1.85 -5.48,-3.61 -8.18,-5.6 -14.11,-10.38 -26.51,-23.08 -36.65,-37.36 -9.35,-13.17 -16.77,-27.7 -21.96,-42.98 -5.2,-15.32 -8.17,-31.38 -8.78,-47.54 -1.52,-40.22 11.63,-79.93 36.88,-111.27 10.69,-13.27 23.43,-24.92 37.67,-34.29 2.8,-1.84 5.58,-3.46 8.47,-5.16 -6.31,4.16 -12.48,8.46 -18.31,13.27 -12.32,10.17 -23.22,22.05 -32.26,35.22 -9.01,13.15 -16.16,27.56 -21.17,42.68 -15.51,46.85 -9.78,98.44 15.61,140.75 8.22,13.7 18.38,26.22 30.07,37.11 5.93,5.53 12.09,10.36 18.61,15.17 z" />
+          <path
+             id="brilho-cruz"
+             fill-opacity="0.9"
+             d="m 143,256.5 c 5.22,-0.28 10.42,-0.94 15.59,-1.66 1.69,-0.23 3.38,-0.48 5.07,-0.73 0.59,-0.09 1.81,-0.37 2.34,-0.36 0.69,0.01 1.38,0.1 2.07,0.15 1.38,0.1 2.75,0.19 4.13,0.28 4.48,0.31 8.96,0.59 13.44,0.84 13.78,0.79 27.56,1.36 41.36,1.48 -13.8,0.1 -27.58,0.69 -41.36,1.48 -4.48,0.25 -8.96,0.53 -13.44,0.84 -1.38,0.09 -2.75,0.18 -4.13,0.28 -0.69,0.05 -1.38,0.14 -2.07,0.15 -0.53,0.01 -1.75,-0.27 -2.34,-0.36 -1.69,-0.25 -3.38,-0.5 -5.07,-0.73 -5.17,-0.72 -10.37,-1.4 -15.59,-1.66 z" />
+          <circle
+             cx="165.82794"
+             cy="256.67206"
+             r="16"
+             fill="url(#brilho)"
+             id="circle10"
+             style="fill:url(#radialGradient40)" />
+        </g>
+        <path
+           id="lua"
+           fill="url(#ouro)"
+           d="M 427.35,89.16 A 173.02,173.02 0 1 0 569.28,374.59 159.38508,159.38508 0 0 1 427.35,89.16 Z"
+           style="fill:url(#ouro-9)" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata78">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Pamella RR Studio</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

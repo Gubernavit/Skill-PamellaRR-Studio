@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="8 76 6.180013 6.1800028"
+   width="18.540039"
+   height="18.540009"
+   version="1.1"
+   id="svg60"
+   sodipodi:docname="Elementos Graficos.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs60" />
+  <sodipodi:namedview
+     id="namedview60"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="6.1800132"
+       height="6.1800027"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <title
+     id="title1">Pamella RR Studio - elementos gráficos</title>
+  <g
+     id="ponto"
+     transform="translate(-325.41,-151.24001)">
+    <circle
+       cx="336.5"
+       cy="230.33"
+       r="3.0899999"
+       fill="#876842"
+       id="circle6" />
+  </g>
+</svg>
